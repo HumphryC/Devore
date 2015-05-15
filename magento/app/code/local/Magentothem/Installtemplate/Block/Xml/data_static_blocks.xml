@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<phoenix>
+    <blocks>
+        <block>
+            <title>Footer Static</title>
+            <identifier>footer_static</identifier>
+            <content>
+                      <![CDATA[<div class="f-col f-col1 col-sm-4 col-md-4 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>about unis Fashion</h3>
+</div>
+<div class="footer-static-content">
+<div class="social"><a class="social1" href="#"><img src="{{media url="wysiwyg/social1.png"}}" alt="" /></a> <a class="social2" href="#"><img src="{{media url="wysiwyg/social2.png"}}" alt="" /></a> <a class="social3" href="#"><img src="{{media url="wysiwyg/social3.png"}}" alt="" /></a> <a class="social4" href="#"><img src="{{media url="wysiwyg/social4.png"}}" alt="" /></a> <a class="social5" href="#"><img src="{{media url="wysiwyg/social5.png"}}" alt="" /></a><a class="social6" href="#"><img src="{{media url="wysiwyg/social6.png"}}" alt="" /></a></div>
+</div>
+<div class="footer-static-title">
+<h3>Stay connected</h3>
+</div>
+<ul class="link-follow ">
+<li class="first"><a class="facebook fa fa-facebook" href="#"><span>facebook</span></a></li>
+<li><a class="twitter fa fa-twitter" href="#"><span>twitter</span></a></li>
+<li><a class="google fa fa-google-plus" href="#"><span>google+</span></a></li>
+<li class="last"><a class="pinterest fa fa-pinterest" href="#"><span>pinterest</span></a></li>
+</ul>
+</div>
+<div class="f-col f-col2 col-sm-4 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>information</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="{{store direct_url="about-magento-demo-store"}}">About us</a></li>
+<li><a href="{{store direct_url="contacts"}}">Delivery Information</a></li>
+<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+<li><a href="{{store direct_url="contacts"}}">Discount</a></li>
+<li><a href="{{store direct_url="customer-service"}}">Custom Service</a></li>
+<li class="last"><a href="{{store direct_url="catalogsearch/term/popular"}}">Terms &amp; Condition</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col3 col-sm-4 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>customer care</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Sitemap</a></li>
+<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+<li><a href="{{store direct_url="customer/account/index"}}">Your Account</a></li>
+<li><a href="{{store direct_url="catalogsearch/advanced"}}">Advanced Search</a></li>
+<li><a href="{{store direct_url="catalogsearch/term/popular"}}">Terms &amp; Condition</a></li>
+<li class="last"><a href="{{store direct_url="contacts"}}">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col4 col-sm-4 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>quick link</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="{{store direct_url="contacts"}}">My Account</a></li>
+<li><a href="{{store direct_url="contacts"}}">Order History</a></li>
+<li><a href="{{store direct_url="contacts"}}">Returns</a></li>
+<li><a href="{{store direct_url="contacts"}}">Specials</a></li>
+<li><a href="{{store direct_url="contacts"}}">Mobiles</a></li>
+<li class="last"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col5 col-sm-4 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>My Account</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="{{store direct_url="about-magento-demo-store"}}">About us</a></li>
+<li><a href="{{store direct_url="contacts"}}">Delivery Information</a></li>
+<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+<li><a href="{{store direct_url="contacts"}}">Discount</a></li>
+<li><a href="{{store direct_url="customer-service"}}">Custom Service</a></li>
+<li class="last"><a href="{{store direct_url="catalogsearch/term/popular"}}">Terms &amp; Condition</a></li>
+</ul>
+</div>
+</div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+        <block>
+            <title>Header Static</title>
+            <identifier>header_static</identifier>
+            <content>
+                      <![CDATA[<div class="header-static">+444 (100) 1234 <span>( Mon- Fri: 09.00 - 21.00 ) </span></div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+        <block>
+            <title>Custom Menu</title>
+            <identifier>st_item_menu_custom_menu</identifier>
+            <content>
+                      <![CDATA[<div class="static_block_custom_menu">
+<div class="custom-inner">
+<div class="box-html">
+<div class="menu-content">
+<div class="menu-title"><span>VIDEO WIDGETS </span></div>
+<div class="menu-inner"><object width="320" height="200" data="http://www.youtube.com/v/TZADnkwNEO8?wmode=transparent" type="application/x-shockwave-flash"><param name="src" value="http://www.youtube.com/v/TZADnkwNEO8?wmode=transparent" /></object>
+<p>This is Photoshop version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum.This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin</p>
+</div>
+</div>
+<div class="box-video">
+<div class="menu-title"><span>Images Widgets</span></div>
+<div class="menu-content1"><a href="#"><img src="{{media url="wysiwyg/img14.jpg"}}" alt="" /></a></div>
+</div>
+</div>
+</div>
+</div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+        <block>
+            <title>Banner Static Top</title>
+            <identifier>home_banner_static_1</identifier>
+            <content>
+                      <![CDATA[<div class="home-banner-static1 row">
+<div class="col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="box-content">
+<div class="ca-img"><a href="#"><img src="{{media url="wysiwyg/img-banner-home-static1.jpg"}}" alt="" /></a></div>
+<div class="ca-content">
+<h3 class="ca-sub1"><a href="#">bag leather</a></h3>
+</div>
+<a href="#">- Shop Now -</a></div>
+</div>
+<div class="col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="box-content">
+<div class="ca-img"><a href="#"><img src="{{media url="wysiwyg/img-banner-home-static2.jpg"}}" alt="" /></a></div>
+<div class="ca-content">
+<h3 class="ca-sub1"><a href="#">clothing leather</a></h3>
+</div>
+<a href="#">- Shop Now -</a></div>
+</div>
+<div class="col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="box-content box-content2">
+<div class="ca-img"><a href="#"><img src="{{media url="wysiwyg/img-banner-home-static3.jpg"}}" alt="" /></a></div>
+<div class="ca-content">
+<h3 class="ca-sub1"><a href="#">shoes leather</a></h3>
+</div>
+<a href="#">- Shop Now -</a></div>
+</div>
+<div class="col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="box-content">
+<div class="ca-img"><a href="#"><img src="{{media url="wysiwyg/img-banner-home-static4.png"}}" alt="" /></a></div>
+<div class="ca-content">
+<h3 class="ca-sub1"><a href="#">accessories</a></h3>
+</div>
+<a href="#">- Shop Now -</a></div>
+</div>
+</div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+        <block>
+            <title>Menu Custom ID Categories 5</title>
+            <identifier>st_menu_idcat_5_right</identifier>
+            <content>
+                      <![CDATA[<div class="menu-box">
+<div class="box-img"><img src="{{media url="wysiwyg/img-static-menu.png"}}" alt="" /></div>
+<div class="box-content">
+<h3 class="content"><a href="#">special product</a></h3>
+</div>
+<a href="#">- Shop Now -</a></div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+        <block>
+            <title>Block Static Home Content</title>
+            <identifier>static_home_content</identifier>
+            <content>
+                      <![CDATA[
+					  <div class="static-home-content">
+<div class="container">
+<div class="title">
+<p class="title1">Lorem Ipsum Nisi</p>
+<h3 class="title2">our Services</h3>
+<div class="bg-title">&nbsp;</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="box-content">
+<div class="image"><img src="{{media url="wysiwyg/img-static-home-content1.png"}}" alt="" /></div>
+<div class="title">
+<h3 class="title1">Custom Design</h3>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="box-content">
+<div class="image"><img src="{{media url="wysiwyg/img-static-home-content2.png"}}" alt="" /></div>
+<div class="title">
+<h3 class="title1">Orthotic</h3>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="box-content">
+<div class="image"><img src="{{media url="wysiwyg/img-static-home-content3.png"}}" alt="" /></div>
+<div class="title">
+<h3 class="title1">Engineered</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+					  ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+        
+		<block>
+            <title>Footer Content</title>
+            <identifier>footer_content</identifier>
+            <content>
+                      <![CDATA[<div class="footer-content">
+<div class="f-col f-col1 col-xs-12 col-sm-4">
+<div class="box-content box1">
+<p>free uk standard delivery</p>
+<h4>on order over $ 85 - use code ukfre75</h4>
+</div>
+</div>
+<div class="f-col f-col2 col-xs-12 col-sm-4">
+<div class="box-content box2">
+<p>collect from store</p>
+<h4>$2 next day delivery at over 250 store</h4>
+</div>
+</div>
+<div class="f-col f-col3 col-xs-12 col-sm-4">
+<div class="box-content box3">
+<p>free international delivery</p>
+<h4>onorder over $100 - use code free100</h4>
+</div>
+</div>
+</div>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+		
+		<block>
+            <title>Link Blog</title>
+            <identifier>st_menu_links</identifier>
+            <content>
+                      <![CDATA[<p><a href="{{store direct_url="blog"}}">Blog</a></p>]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+    </blocks>
+
+</phoenix>
+

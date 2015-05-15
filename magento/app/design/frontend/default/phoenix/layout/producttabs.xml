@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <cms_index_index>
+     <block type="producttabs/producttabs" name="producttabs">
+        <action method="setTemplate">
+            <template>magentothem/producttabs/producttabs.phtml</template>
+        </action>
+    </block>  
+</cms_index_index>
+
+<producttabs_index_result>  
+    <reference name="root">
+        <action method="setTemplate" ifconfig="producttabs/producttabs_config/enabled"><template>magentothem/producttabs/result.phtml</template></action>
+
+        <block type="producttabs/product_list" name="product_list" template="magentothem/producttabs/product/grid.phtml" />
+    </reference>
+</producttabs_index_result>
+
+</layout> 

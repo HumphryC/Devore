@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<phoenix>
+    <resources>
+        <resource>
+            <title>Phoenix Home page</title>
+            <identifier>phoenix_home</identifier>
+            <root_template>one_column</root_template>
+            <content><![CDATA[<div class="home-content">{{block type="page/html" name="home.banner.static.1" template="magentothem/home_banner_static_1.phtml"}}{{block type="producttabs/producttabs" name="producttabs" template="magentothem/producttabs/producttabs.phtml" }} {{block type="featuredproductslider/featuredproductslider" name="featuredproductslider" template="magentothem/featuredproductslider/featuredproductslider.phtml" }}</div>]]></content>
+            <sort_order>1</sort_order>
+            <is_active>1</is_active>
+        </resource>
+    </resources>
+</phoenix>
