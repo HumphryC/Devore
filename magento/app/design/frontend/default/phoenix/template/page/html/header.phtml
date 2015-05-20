@@ -53,10 +53,7 @@
         <div class="container">
             <div class="header-content">
                 <div class="row">
-		    <div class="col-xs-12 col-sm-4">
-                        <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('header_static')->toHtml() ?>
-                    </div>
-                    <div class="logo-contain col-xs-12 col-sm-4">
+                    <div class="logo-contain col-xs-12 col-sm-8">
                         <?php if ($this->getIsHomePage()): ?>
 						<h1 class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
 						<?php else: ?>
